@@ -1,0 +1,110 @@
+body{
+  font-family: Montserrat;
+}
+h2{
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+h3{
+  font-weight: bold;
+}
+#title{
+  background-color: #ff4c68;
+}
+.col-lg-6 h1{
+  font-family: Montserrat-Black;
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
+  line-height: 1.5;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+}
+.navbar{
+  padding-bottom: 4rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.25rem;
+}
+.download-btn{
+  margin: 3% 5% 3% 0%;
+}
+#features{
+  padding: 6.5%;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+.icon{
+  color: #ff4c68;
+  margin-bottom: 2%;
+}
+.icon:hover{
+  color: crimson;
+}
+#testimonials{
+  padding: 5% 10%;
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+.test-img{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;;
+}
+#press{
+  padding-right: 8%;
+  padding-left: 8%;
+  padding-bottom: 7%;
+  background-color: #ef8172;
+  text-align: center;
+}
+.press-img{
+  width: 15%;
+  margin: 20px 20px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+#pricing{
+  padding: 7% 15%;
+  text-align: center;
+}
+.price-col{
+  padding: 3% 2%;
+}
+#cta{
+  padding: 10% 15%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: white;
+}
+#cta h3{
+  font-size: 2.5rem;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+.cpyrt{
+  padding-top: 5%;
+}
+.movryt{
+  padding-right: 3%;
+}
+@media (max-width: 952px) {
+  #title{
+    text-align: center;
+  }
+}
